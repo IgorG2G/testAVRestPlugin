@@ -2,19 +2,19 @@
   "data":[
     { 
       "id":1,
-      "name":"GoldByMarina",
+      "name":"GoldByMarina"
     },
     { 
       "id":2,
-      "name":"Baobab",
+      "name":"Baobab"
     },
     { 
       "id":3,
-      "name":"Micasa",
+      "name":"Micasa"
     },
     { 
       "id":4,
-      "name":"Nose",
+      "name":"Nose"
     }
   ]
 }
